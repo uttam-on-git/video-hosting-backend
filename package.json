@@ -1,0 +1,16 @@
+{
+  "name": "video-hosting-backend",
+  "version": "1.0.0",
+  "description": "backend codebase for video hosting platform",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "videoc-hosting"
+  ],
+  "author": "Romendra uttam",
+  "license": "ISC"
+}
